@@ -1,3 +1,7 @@
+## Tests/Coverage/Demo
+
+- [deck-of-cards](https://go.jonathancook.site/deck-of-cards-demo): Tests/Coverage/Demo for [deck-of-cards](https://go.jonathancook.site/deck-of-cards-repo)
+
 ## Docs
 
 - [react-acid-trail](https://go.jonathancook.site/docs-react-acid-trail): JSDocs for [react-acid-trail](https://go.jonathancook.site/react-acid-trail-repo)
