@@ -1,10 +1,10 @@
 ## Docs
 
-[react-acid-trail](https://docs.jonathancook.site/docs-react-acid-trail)
+- [react-acid-trail](https://go.jonathancook.site/docs-react-acid-trail): JSDocs for [react-acid-trail](https://go.jonathancook.site/react-acid-trail-repo)
 
 ## Coverage
 
-[react-acid-trail](https://docs.jonathancook.site/coverage-react-acid-trail)
+[react-acid-trail](https://go.jonathancook.site/coverage-react-acid-trail)
 
 <!--
 ## Welcome to GitHub Pages
