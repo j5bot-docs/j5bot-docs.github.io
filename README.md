@@ -4,7 +4,7 @@
 
 ## Coverage
 
-[react-acid-trail](https://go.jonathancook.site/coverage-react-acid-trail)
+- [react-acid-trail](https://go.jonathancook.site/coverage-react-acid-trail): Code coverage report for [react-acid-trail](https://go.jonathancook.site/react-acid-trail-repo)
 
 <!--
 ## Welcome to GitHub Pages
